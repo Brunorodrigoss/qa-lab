@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="21" skipped="0" failures="0" errors="0" time="0.005803" timestamp="2019-09-11T22:35:34-03:00" hostname="000953.local">
+<properties>
+<property name="seed" value="7759"/>
+</properties>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Should add a avenger" file="./spec/avengers_spec.rb" time="0.000389"></testcase>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Should add an avengers list" file="./spec/avengers_spec.rb" time="0.000775"></testcase>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Should Check size avengers list" file="./spec/avengers_spec.rb" time="0.000442"></testcase>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Thor shoud be first on the list" file="./spec/avengers_spec.rb" time="0.000518"></testcase>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Ironman shoud be last on the list" file="./spec/avengers_spec.rb" time="0.000076"></testcase>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Should contais the last name" file="./spec/avengers_spec.rb" time="0.000530"></testcase>
+<testcase classname="spec.bank.withdrawal_checking_account_spec" name="Checking Account Withdrawal When the value is positive then update balance" file="./spec/bank/withdrawal_checking_account_spec.rb" time="0.000062"></testcase>
+<testcase classname="spec.bank.withdrawal_checking_account_spec" name="Checking Account Withdrawal When the balance is zero then show message" file="./spec/bank/withdrawal_checking_account_spec.rb" time="0.000054"></testcase>
+<testcase classname="spec.bank.withdrawal_checking_account_spec" name="Checking Account Withdrawal When the balance is zero and final balance with zeros" file="./spec/bank/withdrawal_checking_account_spec.rb" time="0.000047"></testcase>
+<testcase classname="spec.bank.withdrawal_checking_account_spec" name="Checking Account Withdrawal When the balance is insufficient then show message" file="./spec/bank/withdrawal_checking_account_spec.rb" time="0.000049"></testcase>
+<testcase classname="spec.bank.withdrawal_checking_account_spec" name="Checking Account Withdrawal When the balance is insufficient and final balance with 500" file="./spec/bank/withdrawal_checking_account_spec.rb" time="0.000046"></testcase>
+<testcase classname="spec.bank.withdrawal_checking_account_spec" name="Checking Account Withdrawal When Draw Limit Then show message" file="./spec/bank/withdrawal_checking_account_spec.rb" time="0.000048"></testcase>
+<testcase classname="spec.bank.withdrawal_checking_account_spec" name="Checking Account Withdrawal When Draw Limit and the balance with 1000" file="./spec/bank/withdrawal_checking_account_spec.rb" time="0.000044"></testcase>
+<testcase classname="spec.bank.withdrawal_savings_account_spec" name="Savings Account Withdrawal When the value is positive then update balance" file="./spec/bank/withdrawal_savings_account_spec.rb" time="0.000065"></testcase>
+<testcase classname="spec.bank.withdrawal_savings_account_spec" name="Savings Account Withdrawal When the balance is zero then show message" file="./spec/bank/withdrawal_savings_account_spec.rb" time="0.000083"></testcase>
+<testcase classname="spec.bank.withdrawal_savings_account_spec" name="Savings Account Withdrawal When the balance is zero and final balance with zeros" file="./spec/bank/withdrawal_savings_account_spec.rb" time="0.000061"></testcase>
+<testcase classname="spec.bank.withdrawal_savings_account_spec" name="Savings Account Withdrawal When the balance is insufficient then show message" file="./spec/bank/withdrawal_savings_account_spec.rb" time="0.000064"></testcase>
+<testcase classname="spec.bank.withdrawal_savings_account_spec" name="Savings Account Withdrawal When the balance is insufficient and final balance with 500" file="./spec/bank/withdrawal_savings_account_spec.rb" time="0.000067"></testcase>
+<testcase classname="spec.bank.withdrawal_savings_account_spec" name="Savings Account Withdrawal When Draw Limit Then show message" file="./spec/bank/withdrawal_savings_account_spec.rb" time="0.000059"></testcase>
+<testcase classname="spec.bank.withdrawal_savings_account_spec" name="Savings Account Withdrawal When Draw Limit and the balance with 500" file="./spec/bank/withdrawal_savings_account_spec.rb" time="0.000044"></testcase>
+<testcase classname="spec.examples_spec" name="rspec suite sum of values" file="./spec/examples_spec.rb" time="0.000044"></testcase>
+</testsuite>
