@@ -1,6 +1,6 @@
 # terminal: rspec --tag @dropdown
 
-describe 'Selection box', :dropdown do 
+describe 'Dropdown list', :dropdown do 
     it 'specific simple item' do
         visit 'https://training-wheels-protocol.herokuapp.com/dropdown'
 
